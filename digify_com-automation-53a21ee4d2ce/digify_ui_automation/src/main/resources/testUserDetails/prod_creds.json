@@ -1,0 +1,22 @@
+{
+  "businessPlanAdmin": {
+    "username": "autoprod_bussuser@tafmail.com",
+    "password": "Testtime4$"
+  },
+  "proPlanAdmin": {
+    "username": "autoprodproadmin@tafmail.com",
+    "password": "@utoDemo78"
+  },
+  "teamPlanAdmin": {
+    "username": "autoprodteamadmin@tafmail.com",
+    "password": "@utoDemo78"
+  },
+  "recipientUser": {
+    "username": "autoprod_recipientuser@tafmail.com",
+    "password": "Testtime4$"
+  },
+  "recipientUser1": {
+    "username": "autoprod_recipientuser1@tafmail.com",
+    "password": "Testtime4@"
+  }
+}

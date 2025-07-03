@@ -1,0 +1,20 @@
+{
+  "planName": "ENTERPRISE",
+  "planMonthlyPrice": "CUSTOM",
+  "planLabelText": "Get a quote tailored to your needs",
+  "planUser": "Custom User Quota",
+  "planDR": "Unlimited Data Rooms",
+  "planDRGuest": "Custom Data Room Guest Quota",
+  "featureLabelText": "Get all TEAM features, plus:",
+  "whiteLabel": "White-Label URL",
+  "branding": "Branded Login & Email Notifications",
+  "api": "API Calls for Workflows & Embeds",
+  "drStorageLocation": "Data Room File Storage Location",
+  "sso": "SSO & SCIM User Management",
+  "domain": "Domain Invite Enforcement",
+  "compliance": "Compliance Assurance",
+  "legal": "Contract Legal Review",
+  "manager": "Dedicated Success Manager",
+  "support": "Priority/Enterprise Support",
+  "guarantees": "Service Level Guarantees"
+}

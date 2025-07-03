@@ -1,0 +1,17 @@
+{
+  "planName": "TEAM",
+  "planMonthlyPrice": "330",
+  "planAnnualPrice": "480",
+  "planLabelText": "per month",
+  "planUser": "3 Users",
+  "planDR": "10 Data Rooms",
+  "planDRGuest": "200 Data Room Guests",
+  "featureLabelText": "Get all PRO features, plus:",
+  "watermark": "Dynamic Watermark",
+  "screenShield": "Screen Shield",
+  "teamGP": "File-Level Granular Permissions",
+  "msEditing": "Editing with MS Office Integration",
+  "qna": "Data Room Question & Answer",
+  "phoneSupport": "Phone Support",
+  "guestSupport": "Support for Guests"
+}

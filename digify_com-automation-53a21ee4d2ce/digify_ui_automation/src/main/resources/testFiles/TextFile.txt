@@ -1,0 +1,265 @@
+﻿MUTUAL NONDISCLOSURE AGREEMENT
+
+
+INSTRUCTIONS
+
+
+Overview
+
+
+Nondisclosure agreements (also called NDAs or confidentiality agreements) have become increasingly important for businesses of all sizes, serving as the first line of defense in protecting inventions, trade secrets, and hard work. These agreements are used when at least one person is sharing confidential information with someone else, and protect the immediate and future privacy of that disclosed information. Once signed, a nondisclosure agreement allows for open dialogue between parties, creating an environment in which information can be discussed freely and the true objectives of the meeting or relationship can be achieved (for example, a company may be created or a strategic partnership may be established).
+
+
+There are two key types of nondisclosure agreements: unilateral and mutual. Mutual nondisclosure agreements (like the agreement in this document) should be used when both parties will be sharing confidential information, as when the parties are considering the creation of a partnership, joint venture, or merger. Unilateral nondisclosure agreements should be used when only one side will be sharing confidential information, as when one party is seeking funding for or investment in a company.
+
+
+Instructions
+
+
+1. Delete this first page of instructions before using your template
+2. Fields [in brackets] are placeholders for your information
+3. This template is provided “as is” - please consult your own legal counsel before use.
+4. For more detailed instructions for this template, or to find more detailed and comprehensive NDAs, visit LegalZoom
+
+
+Disclaimer
+
+
+LegalZoom is not a law firm and is not a substitute for an attorney or law firm. LegalZoom cannot provide legal advice and can only provide self-help services at your specific direction. LegalZoom cannot provide any kind of advice, explanation, opinion, or recommendation to a consumer about possible legal rights, remedies, defenses, options, selection of forms or strategies. LegalZoom.com, Inc. is located at 101 N. Brand Blvd., 11th Floor, Glendale, CA 91203, (800) 773-0888. The information contained in this packet is general legal information, and should not be construed as legal advice to be applied to a specific factual situation. The use of the materials in this packet does not create or constitute an attorney-client relationship between the user of this form and LegalZoom, its employees, or any other person associated with LegalZoom. Because the law differs in each legal jurisdiction and may be interpreted or applied differently depending on your location or situation, you should not rely on the materials provided in this packet without first consulting an attorney about your specific situation.
+
+
+The materials in this packet are provided “as is.” LegalZoom does not give any express or implied warranties of merchantability, suitability, or completeness of the materials in this packet. You use the materials in this packet at your own risk. Neither LegalZoom, nor its agents, officers, employees, or affiliates, are liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including procurement of substitute goods or services, loss of use or profits, or business interruption), even if LegalZoom has been advised of the possibility of such damages, on any theory of liability, whether in contract, strict liability, or tort, arising in any way out of the use of or inability to use the materials provided in this packet. Some jurisdictions do not allow the limitation of incidental or consequential damages, so this limitation may not apply to you.
+
+
+________________
+
+
+ Please remove this instructional page before use
+________________
+________________
+
+
+MUTUAL NONDISCLOSURE AGREEMENT
+  
+This mutual nondisclosure agreement is between [PARTY ONE NAME], a[n] [State of Organization, if not an individual] [Business Type] whose principal address is [Full Mailing Address] and [YOUR NAME OR ORGANIZATION NAME], a[n] [State of Organization, if not an individual] [Business Type] whose principal address is [Full Mailing Address].
+                
+Each party has developed certain confidential information that it may disclose to the other party for the purpose of [why the parties are exchanging information].
+                
+The parties therefore agree as follows:
+
+
+1.        CONFIDENTIAL INFORMATION.
+
+
+Each party (in such capacity, a “Disclosing Party”) may disclose certain of its confidential and proprietary information to the other party (in such capacity, a “Receiving Party”). “Confidential Information” means:
+
+
+(a)        information relating to the Disclosing Party or its current or proposed business, including financial statements, budgets and projections, customer identifying information, potential and intended customers, employers, products, computer programs, specifications, manuals, software, analyses, strategies, marketing plans, business plans, and other confidential information, whether provided orally, in writing, or by any other media, that was or will be:
+
+
+1. provided or shown to the Receiving Party by or on behalf of the Disclosing Party; or
+
+
+2. obtained by the Receiving Party from review of documents or property of, or communications with, the Disclosing Party; and
+
+
+(b)        all notes, analyses, compilations, studies, summaries, and other material, whether provided orally, in writing, or by any other media, that contain or are based on the information described in subsection (a) (the “Derivative Materials”).
+        
+The Disclosing Party shall identify Confidential Information disclosed orally within a reasonable time after disclosure, although failure to identify information as Confidential Information is not an acknowledgment or admission that that information is not confidential.
+
+
+2.        OBLIGATION TO MAINTAIN CONFIDENTIALITY.
+
+
+(a)        Confidentiality. The Receiving Party shall keep the Confidential Information confidential. Except as otherwise required by law, the Receiving Party may not:
+        
+1. disclose any Confidential Information to any person or entity other than:
+
+
+   1. a Receiving Party representative who needs to know the Confidential Information for the purposes of its business with the Disclosing Party;
+
+
+   2. a Receiving Party representative who signs a confidentiality agreement; and
+
+
+   3. with the Disclosing Party’s prior written authorization; or
+
+
+2. use the Confidential Information for any purposes other than those contemplated by this agreement.
+
+
+(b)        No Reverse Engineering. The Receiving Party may not reverse engineer, disassemble, or decompile any prototypes, software, or other tangible objects that embody the Disclosing Party’s Confidential Information and that are provided to the Receiving Party under this agreement.  
+
+
+(c)        Term. The Receiving Party shall maintain the confidentiality and security of the Disclosing Party’s Confidential Information until the earlier of: (i) such time as all Confidential Information of the Disclosing Party disclosed under this agreement becomes publicly known and is made generally available through no action or inaction of the Receiving Party or (ii) [Number] years from the date of disclosure. However, to the extent that the Disclosing Party has disclosed information to the Receiving Party that constitutes a trade secret under law, the Receiving Party shall protect that trade secret for as long as the information qualifies as a trade secret. 
+
+
+3.        EXCLUSIONS.
+
+
+The obligations and restrictions of this agreement do not apply to that part of the Confidential Information that the Receiving Party demonstrates:
+                        
+   1. was or becomes generally publicly available other than as a result of a disclosure by the Receiving Party in violation of this agreement;
+
+
+   2. was or becomes available to the Receiving Party on a nonconfidential basis before its disclosure to the Receiving Party by the Disclosing Party, but only if:
+
+
+1. the source of such information is not bound by a confidentiality agreement with the Disclosing Party or is not otherwise prohibited from transmitting the information to the Receiving Party by a contractual, legal, fiduciary, or other obligation; and
+
+
+2. the Receiving Party provides the Disclosing Party with written notice of such prior possession either (A) before the execution and delivery of this agreement or (B) if the Receiving Party later becomes aware (through disclosure to the Receiving Party) of any aspect of the Confidential Information as to which the Receiving Party had prior possession, promptly on the Receiving Party so becoming aware; or
+
+
+   3. is requested or legally compelled (by oral questions, interrogatories, requests for information or documents, subpoena, civil or criminal investigative demand, or similar process), or is required by a regulatory body, to be disclosed. However, the Receiving Party shall: 
+
+
+1. provide the Disclosing Party with prompt notice of any such request or requirement before disclosure so that the Disclosing Party may seek an appropriate protective order or other appropriate remedy; and
+
+
+2. provide reasonable assistance to the Disclosing Party in obtaining any such protective order. 
+
+
+        If a protective order or other remedy is not obtained or the Disclosing Party grants a waiver under this agreement, then the Receiving Party may furnish that portion (and only that portion) of the Confidential Information that, in the written opinion of counsel reasonably acceptable to the Disclosing Party, the Receiving Party is legally compelled or otherwise required to disclose. The Receiving Party shall make reasonable efforts to obtain reliable assurance that confidential treatment will be accorded any part of the Confidential Information so disclosed; or
+
+
+   4. was developed by the Receiving Party independently without breach of this agreement.
+
+
+4.        RETURN OF PROPERTY.
+
+
+All documents and other tangible objects containing or representing Confidential Information that have been disclosed by either party to the other party, and all copies in the possession of the other party, are and will remain the property of the Disclosing Party. At the Disclosing Party’s request, the Receiving Party shall promptly return or destroy all of those documents or objects.
+
+
+5.        OWNERSHIP RIGHTS. 
+
+
+Each party acknowledges that the Confidential Information is and will be the Disclosing Party’s sole property, even if suggestions made by the Receiving Party are incorporated into the Confidential Information. Neither party obtains any rights, by license or otherwise, in the other party’s Confidential Information. Neither party solicits any change in the other party’s organization, business practice, service, or products, and the disclosure of the Confidential Information may not be construed as evidencing any intent by a party to purchase any products or services of the other party or as an encouragement to expend funds in development or research efforts. The Confidential Information may pertain to prospective or unannounced products. Neither party may use the other party’s Confidential Information as a basis on which to develop or have a third party develop a competing or similar plan or undertaking. 
+
+
+6.        NO OBLIGATION.
+
+
+Nothing in this agreement obligates either party to proceed with any transaction between them, and each party reserves the right, in its sole discretion, to terminate the discussions contemplated by this agreement concerning the business opportunity, if any, and to cease further disclosures, communications, or other activities under this agreement on written notice to the other party. Any commitment to proceed with a transaction will be set forth in a separate agreement signed by the parties.
+
+
+7.        NO WARRANTY.
+
+
+ALL CONFIDENTIAL INFORMATION IS PROVIDED “AS IS.” NEITHER PARTY MAKES ANY WARRANTIES, EXPRESS, IMPLIED, OR OTHERWISE, REGARDING THE ACCURACY, COMPLETENESS, OR PERFORMANCE OF ANY SUCH INFORMATION.
+
+
+8.        MISCELLANEOUS.
+
+
+1. Choice of Law. The laws of the state of [State] govern this agreement (without giving effect to its conflicts of law principles).
+
+
+2. Equitable Relief. The parties acknowledge that a breach of this agreement will cause irreparable harm to the Disclosing Party and monetary damages may not be a sufficient remedy for an unauthorized disclosure of the Confidential Information. If a Receiving Party discloses the Confidential Information in violation of this agreement, a Disclosing Party may, without waiving any other rights or remedies and without posting a bond or other security, seek an injunction, specific performance, or other equitable remedy to prevent competition or further disclosure, and may pursue other legal remedies. 
+
+
+3. Amendments. No amendment to this agreement will be effective unless it is in writing and signed by a party or its authorized representative.
+
+
+4. No Assignment. Neither party may assign any of its rights or delegate any performance under this agreement, except with the prior written consent of the other party. 
+
+
+5. Electronic Signatures. This agreement, agreements ancillary to this agreement, and related documents entered into in connection with this agreement are signed when a party’s signature is delivered electronically, and these signatures must be treated in all respects as having the same force and effect as original signatures.
+
+
+6. Severability. If any provision in this agreement is, for any reason, held to be invalid, illegal, or unenforceable in any respect, that invalidity, illegality, or unenforceability will not affect any other provisions of this agreement, but this agreement will be construed as if the invalid, illegal, or unenforceable provisions had never been contained in this agreement, unless the deletion of those provisions would result in such a material change that would cause completion of the transactions contemplated by this agreement to be unreasonable.
+
+
+7. Waiver. No waiver of a breach, failure of any condition, or any right or remedy contained in or granted by the provisions of this agreement will be effective unless it is in writing and signed by the party waiving the breach, failure, right, or remedy. No waiver of any breach, failure, right, or remedy will be deemed a waiver of any other breach, failure, right, or remedy, whether or not similar, and no waiver will constitute a continuing waiver, unless the writing so specifies.
+
+
+8. Entire Agreement. This agreement constitutes the final agreement of the parties. It is the complete and exclusive expression of the parties’ agreement with respect to the subject matter of this agreement. 
+
+
+9. Effectiveness. This agreement will become effective when all parties have signed it. The date this agreement is signed by the last party to sign it (as indicated by the date associated with that party’s signature) will be deemed the date of this agreement. 
+
+
+
+
+Each party is signing this agreement on the date stated opposite that party’s signature. 
+
+
+
+
+ Tips_Docusign.jpg 
+
+
+
+
+
+	
+
+	
+
+[PARTY ONE NAME, if party is not an individual]
+	Date:
+	
+
+	Signed:
+	
+
+	
+
+	
+
+	Name:
+	
+
+	
+
+	
+
+	Title:
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+[YOUR ORGANIZATION NAME, if party is not an individual]
+	Date:
+	
+
+	Signed:
+	
+
+	
+
+	
+
+	Name:
+	
+
+	
+
+	
+
+	Title:
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+Mutual Nondisclosure Agreement

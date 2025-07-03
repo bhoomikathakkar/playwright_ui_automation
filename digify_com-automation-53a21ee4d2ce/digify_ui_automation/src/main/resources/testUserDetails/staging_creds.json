@@ -1,0 +1,498 @@
+{
+  "teamPlanAdmin": {
+    "username": "teamautoadmin@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "businessPlanAdmin": {
+    "username": "bussplanadmin@vomoto.com",
+    "password": "@utoDemo78"
+  },
+  "proPlanAdmin": {
+    "username": "autoproadmin@vomoto.com",
+    "password": "@utoDemo78"
+  },
+  "upgradedProPlanAdmin": {
+    "username": "upgradedproadmin@vomoto.com",
+    "password": "@utoDemo78"
+  },
+  "upgradedProPlanUser": {
+    "username": "upgradedproplanuser@vomoto.com",
+    "password": "@utoDemo78"
+  },
+  "recipientUser": {
+    "username": "autoteamuser@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "recipientUser1": {
+    "username": "automation_user01@vomoto.com",
+    "password": "Testdemo@123"
+  },
+  "recipientUser2": {
+    "username": "recipientuser03@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "businessPlanUser": {
+    "username": "auto0bussuser@vomoto.com",
+    "password": "@utoDemo78"
+  },
+  "maildropRecipientUser": {
+    "username": "attestmd@maildrop.cc",
+    "password": "@utoDemo0814"
+  },
+  "maildropAdmin": {
+    "username": "automdadmin@maildrop.cc",
+    "password": "@utoDemo0814"
+  },
+  "maildropUser": {
+    "username": "automduser@maildrop.cc",
+    "password": "@utoDemo0814"
+  },
+  "proPlanAnnuallyAdminUser": {
+    "username": "pro_yearlyAdmin@vomoto.com",
+    "password": "@utoDemo78"
+  },
+  "proPlanMonthlyAdminUser": {
+    "username": "auto_promonthlyad@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "teamPlanAnnuallyAdminUser": {
+    "username": "team_yearlyAdmin@vomoto.com",
+    "password": "Testdemo@123"
+  },
+  "teamPlanMonthlyAdminUser": {
+    "username": "auto_teammonthlyad@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "freemiumUser": {
+    "username": "auto_freemiumuser@vomoto.com",
+    "password": "Testdemo@123"
+  },
+  "freePlanUser": {
+    "username": "freeplan_upgradeuser@vomoto.com",
+    "password": "Testdemo@123"
+  },
+  "microsoftAccountUser": {
+    "username": "qaacounttest@outlook.com",
+    "password": "QA@digify123"
+  },
+  "subscriptionCancelAndReactivate": {
+    "username": "autoemail-8jco@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "spCharacterEmailUser": {
+    "username": "auto_team_@vomoto.com",
+    "password": "QA@digify1234"
+  },
+  "invalidPasswordUser": {
+    "username": "prouser13@vomoto.com",
+    "password": "QA@digify"
+  },
+  "registered_email": {
+    "username": "pro_yearlyAdmin@vomoto.com",
+    "password": "Testdemo@123"
+  },
+  "ssoUser": {
+    "username": "qatestacount2022@gmail.com",
+    "password": "QA@digify123"
+  },
+  "adminWith10MemberQuota": {
+    "username": "auto_teamplan10mem@vomoto.com",
+    "password": "QA@digify123"
+  },
+  "adminWithMemberQuotaFull": {
+    "username": "auto_proquotafull@vomoto.com",
+    "password": "QA@digify123"
+  },
+  "nonSpecifiedDomainUser": {
+    "username": "nonSpecDomainGuest@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "presetUser": {
+    "username": "autoTeamPreset@vomoto.com",
+    "password": "QA@digify123"
+  },
+  "OwnerWith1Member": {
+    "username": "adminwith1member@vomoto.com",
+    "password": "QA@digify123"
+  },
+  "ExistingMember": {
+    "username": "defaultmember@vomoto.com",
+    "password": "QA@digify123"
+  },
+  "maildropTeamUser": {
+    "username": "autoguesttest@maildrop.cc",
+    "password": "@utoDemo0814"
+  },
+  "maildropProUser": {
+    "username": "autoguestpro@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "maildropBusinessUser": {
+    "username": "autoguestbus@maildrop.cc",
+    "password": "QAdigify@123"
+  },
+  "storageFullTeamPlanAdmin": {
+    "username": "auto_teamstorage@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "storageFullProPlanAdmin": {
+    "username": "auto_prostorage@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "storageFullProUser": {
+    "username": "auto_puserstorage@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "storageFullTeamUser": {
+    "username": "auto_tuserstorage@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "encryptedStorageFullProPlanAdmin": {
+    "username": "auto_proencryptedfull@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "encryptedStorageFullProNonAdmin": {
+    "username": "auto_prouserencrypted@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "encryptedStorageFullTeamPlanAdmin": {
+    "username": "auto_teamencryptedfull@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "encryptedStorageFullTeamNonAdmin": {
+    "username": "auto_teamuserencrypted@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "proDisbandUser": {
+    "username": "proplandisband@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamDisbandUser": {
+    "username": "teamdisband@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "proWithTeamDisbandAdmin": {
+    "username": "proautowithteamdisband@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "proWithTeamDisbandMember": {
+    "username": "proautowithteamdisbandmem@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamWithTeamDisbandAdmin": {
+    "username": "teamautowithteamdisband@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamWithTeamDisbandMember": {
+    "username": "teamautowithteamdisbandmem@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "proWithTeamDataDisbandAdmin": {
+    "username": "proauto_with_teamdata_disband@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "proWithTeamDataDisbandMember": {
+    "username": "proauto_with_teamdata_disband_mem@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamWithTeamDataDisbandAdmin": {
+    "username": "teamauto_with_teamdata_disband@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamWithTeamDataDisbandMember": {
+    "username": "teamauto_with_teamdata_disband_mem@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamWithAdminDataDisband": {
+    "username": "teamauto_with_admindata_disband@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamWithAdminDataDisbandMember": {
+    "username": "teamauto_with_admindata_disband_mem@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "whitelabelAdmin": {
+    "username": "auto_whitelabel@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "recipientWhitelabelUser": {
+    "username": "huji@vomoto.com",
+    "password": "Testtime4$"
+  },
+  "recipientAccessSubExpFile": {
+    "username": "recipientqa@maildrop.cc",
+    "password": "@utoDemo7810"
+  },
+  "recipientAccessAccDeletedFile": {
+    "username": "recipientqa2@maildrop.cc",
+    "password": "@utoDemo7810"
+  },
+  "lockedTeamAdmin": {
+    "username": "auto_lockfv@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "importDigifyAdmin": {
+    "username": "auto_nodata@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "apiTeamPlanAdminCred": {
+    "username": "apiteamauto@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "apiProPlanAdminCred": {
+    "username": "apiproauto@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "apiBussPlanAdminCred": {
+    "username": "apibussauto@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "apiTeamAdminKey": {
+    "username": "hZVMANpQ8P",
+    "password": "WyzYwTYxzwgXvT9Nkb43Ydn4JPsJ8oj4QBqJssSV"
+  },
+  "apiProAdminKey": {
+    "username": "6NadhQHNnS",
+    "password": "S4l3vPROlMFJwtaKAnXR4RmkDEciYzAw2UWHU29L"
+  },
+  "apiBussAdminKey": {
+    "username": "GdRvXNfpM6",
+    "password": "GdRvXNfpM6EPpJiH4LRF7KPL81Smbssj4B4CRHPy"
+  },
+  "apiTeamPlanMemberCred": {
+    "username": "apiteam_mem@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "apiTeamPlanMemberKey": {
+    "username": "Ul38lE63zU",
+    "password": "rSFYzDG5yO12NNDpvSYDt6L7B97nLRx4JJiMpBr3"
+  },
+  "autoUniqueAdmin": {
+    "username": "autouniadmin@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "autoUniqueMember": {
+    "username": "autounimem@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "proSearchUser": {
+    "username": "pro_search@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamSearchUser": {
+    "username": "team_search@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "proUnlimitedDR": {
+    "username": "pro_unlimited_dr@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamUnlimitedDR": {
+    "username": "team_unlimited_dr@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "proPremiumFeature": {
+    "username": "pro_premium_addon@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "teamPremiumFeature": {
+    "username": "team_premium_addon@maildrop.cc",
+    "password": "QA@digify123"
+  },
+  "expiredDRGuest": {
+    "username": "autotestrec1@vomoto.com",
+    "password": "@utoDemo0814"
+  },
+  "expiredFileRecipient": {
+    "username": "autoemail-zeds@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "proNoDataAdmin": {
+    "username": "autoemail-07cl@maildrop.cc",
+    "password": "iopa@12345"
+  },
+  "proNoDataMem": {
+    "username": "autoemailnonadm@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "teamNoDataAdm": {
+    "username": "auto-test-88jnb@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "teamNoDataMem": {
+    "username": "auto1-test8788@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskTrialAdm": {
+    "username": "autodigitrial@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskTrialMem": {
+    "username": "autodigitrialmem@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskTeamAdm": {
+    "username": "autoemail-exnp@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskTeamMem": {
+    "username": "autoemail-23tt00@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskProAdm": {
+    "username": "autoemail-aaia@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskProMem": {
+    "username": "autoemail-aaop@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskBussAdm": {
+    "username": "autoemail-q7Zs@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskBussMem": {
+    "username": "auto-testbusmemq33@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskEntAdm": {
+    "username": "auto-entq1@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "doneQuestTaskEntMem": {
+    "username": "auto-entq2@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "inProgressQuestTrialAdm": {
+    "username": "obftestteam@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedTrialMem": {
+    "username": "odfteammem@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "inProgressQuestTeamAdm": {
+    "username": "autoemail-0ii1@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedTeamMem": {
+    "username": "autotest-22nmb1@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "inProgressQuestProAdm": {
+    "username": "auto-testa1de22@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedProMem": {
+    "username": "auto-test-008q@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "inProgressQuestEntAdm": {
+    "username": "auto-testentq3@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedEntMem": {
+    "username": "auto-testentq5@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "inProgressQuestBussAdm": {
+    "username": "autoemail-S2nT@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questTaskFreeUser": {
+    "username": "auto-free6tgf@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedTeamAdm": {
+    "username": "auto-testpl3team1@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedProAdm": {
+    "username": "auto-testpl3pro1@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedTrialAdm": {
+    "username": "auto-testpl3trial1@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedEntAdm": {
+    "username": "auto-testentq4@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedBussAdm": {
+    "username": "auto-testpl3buss@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "questNotStartedBussMem": {
+    "username": "auto-busstest4t55@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "noDataBussMem": {
+    "username": "bussquestdonemem@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "nonAdminAPIKey": {
+    "username": "9FjopmAGoX",
+    "password": "9FjopmAGoXOu6rZ21tiqzZQ3bmNEdOqY5Dl5Q8vE"
+  },
+  "nonAdminAPICreds": {
+    "username": "jjk@vomoto.com",
+    "password": "iopa@12345"
+  },
+  "enterpriseViewerAPIKey": {
+    "username": "hAuLR4FO1N",
+    "password": "hAuLR4FO1NJ5JWtG1z0zIKcfw30AS70kbJllQxg5"
+  },
+  "enterpriseViewerAPICreds": {
+    "username": "entjk@vomoto.com",
+    "password": "iopa@12345"
+  },
+  "inactiveBillingStatusAPIKey": {
+    "username": "W5cA7Xg2Uo",
+    "password": "W5cA7Xg2Uo5jzl2irB5NcQBYbLhmAHs0BqjK19oY"
+  },
+  "inactiveBillingStatusAPICreds": {
+    "username": "tomatina23@vomoto.com",
+    "password": "iopa@09876"
+  },
+  "proPlanWithoutAddonsAPIKey": {
+    "username": "y2Qe3zNlcK",
+    "password": "Kjc4HyXnbEb0iBiIRh0kGzmOKo6JNdZMYqXQnra3"
+  },
+  "proPlanWithoutAddonsAPICreds": {
+    "username": "viewerautouser@maildrop.cc",
+    "password": "iopa@12345"
+  },
+  "invalidEmailId": {
+    "username": "jesskusermaildrop.cc",
+    "password": "QA@digify"
+  },
+  "blankEmail": {
+    "username": "",
+    "password": "QA@digify"
+  },
+  "apiNegativeTestUser": {
+    "username": "mkRBXdPIwO",
+    "password": "8RcblcaKvHrYlY1cKhW5iGHAIy76lvzTzFBUMqUH"
+  },
+  "svcApiProAdminKey": {
+    "username": "vh0cwabCOu",
+    "password": "l6UoihJjFRdJm8lJqg126Du1CnFh6krUHXUAdMIE"
+  },
+  "svcApiProAdminCred": {
+    "username": "apisvcproadm@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "svcApiTeamAdminKey": {
+    "username": "TnFdoBQ6fV",
+    "password": "TnFdoBQ6fVAvHxMenKJ7PNE4oEgtbW4XPUuiS6lv"
+  },
+  "svcApiTeamAdminCred": {
+    "username": "apisvcteamadm@maildrop.cc",
+    "password": "@utoDemo78"
+  },
+  "unauthorizedUserAPIKey": {
+    "username": "y2Qe3zNlcK",
+    "password": "Kjc4HyXnbEb0iBiIRh0kGzmOKo6JNdZMYqXQnra3"
+  }
+}

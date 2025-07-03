@@ -1,0 +1,20 @@
+{
+  "planName": "PRO",
+  "planMonthlyPrice": "130",
+  "planAnnualPrice": "180",
+  "planLabelText": "per month",
+  "planUser": "1 User",
+  "planDR": "3 Data Rooms",
+  "planDRGuest": "50 Data Room Guests",
+  "proDS": "Document Security",
+  "proLogo": "Your Logo & Brand Colors",
+  "proToa": "One-click NDA/Terms of Access",
+  "proDRGroup": "Data Room Groups",
+  "proDRBanner": "Data Room Banner",
+  "proAboutPage": "Data Room About Page",
+  "proComfortLetter": "Data Room Export with Comfort Letter",
+  "proGP": "Folder-Level Granular Permissions",
+  "proStorageLocation": "US/EU File Storage Location",
+  "proOptionalFeature": "Optional Feature Add-ons Available",
+  "proChatSupport": "24/7 Email & Chat Support"
+}
